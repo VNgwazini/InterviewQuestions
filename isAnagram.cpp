@@ -3,7 +3,7 @@
 #include <unordered_map>
 #include <vector>
 #include <algorithm>
-//see if string is palindrome
+//see if string is an anagram of the other
 
 bool isAnagram(std::string s1, std::string s2){
   if(s1.length() != s2.length()){

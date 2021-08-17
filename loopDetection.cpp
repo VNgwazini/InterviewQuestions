@@ -2,7 +2,7 @@
 #include <unordered_map>
 #include <vector>
 #include <list>
-//remove duplicates from linked list
+//detect loop in linked list
 struct Node{
   int key;
   Node* next;

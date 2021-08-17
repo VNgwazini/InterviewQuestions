@@ -2,7 +2,7 @@
 #include <string>
 #include <unordered_map>
 #include <vector>
-//see if string is palindrome
+//perform caeser shift on string
 
 std::string caesarCipher(std::string str, const int shift){
   for(int i = 0; i < str.length(); i++){

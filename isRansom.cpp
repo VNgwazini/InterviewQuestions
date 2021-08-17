@@ -2,7 +2,7 @@
 #include <string>
 #include <unordered_map>
 #include <vector>
-//see if string is palindrome
+//see if string can be made from other string
 
 bool isRansom(const std::string &s1, const std::string &s2){
   std::unordered_map<char,int> visited1, visited2;

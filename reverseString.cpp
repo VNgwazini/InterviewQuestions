@@ -2,7 +2,7 @@
 #include <string>
 #include <unordered_map>
 #include <vector>
-//see if string is palindrome
+//reverse a string
 
 void swap(std::string &s, int a, int b){
   int temp = s[a];

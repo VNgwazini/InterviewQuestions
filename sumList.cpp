@@ -2,7 +2,7 @@
 #include <string>
 #include <vector>
 #include <list>
-//remove duplicates from linked list
+//calculate sum from stack and return in stack
 
 std::list<int> sumList(std::list<int> &a, std::list<int> &b){
   std::list<int> result;
