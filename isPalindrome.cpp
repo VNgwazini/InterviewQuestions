@@ -22,6 +22,9 @@ int main(){
   std::vector<std::string> data;
   data.push_back("dad");
   data.push_back("dog");
+  data.push_back("abba");
+  data.push_back("abbc");
+
 
   for(auto it: data){
     try{
